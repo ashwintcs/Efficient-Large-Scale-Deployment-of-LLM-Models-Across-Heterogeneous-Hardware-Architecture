@@ -4,21 +4,21 @@ The influence of transformer models in natural language processing and various o
 
  
 
-1. https://ieeexplore.ieee.org/document/9724104
-2. https://ieeexplore.ieee.org/document/9761744
+1. S. Dai, X. Zhang, P. Ma, C. Zhang, Y. Lu and L. Jiang, "FPGA Implementation of Convolutional Neural Networks Based on Resource Sharing Techniques," 2022 14th International Conference on Measuring Technology and Mechatronics Automation (ICMTMA), Changsha, China, 2022, pp. 96-100, doi: 10.1109/ICMTMA54903.2022.00026.
+2. R. Neris, A. Rodríguez, R. Guerra, S. López and R. Sarmiento, "FPGA-Based Implementation of a CNN Architecture for the On-Board Processing of Very High-Resolution Remote Sensing Images," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 15, pp. 3740-3750, 2022, doi: 10.1109/JSTARS.2022.3169330.
 3. https://github.com/Xilinx/Vitis-AI-Tutorials
-4. https://dl.acm.org/doi/10.1145/3503465
-5.https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119857891.ch11
-6. https://ieeexplore.ieee.org/document/8966676
-7. fleetrec: https://dl.acm.org/doi/10.1145/3447548.3467139
-8. HeteroRec: https://dl.acm.org/doi/abs/10.1145/3564121.3564134
-9. niser: https://dl.acm.org/doi/abs/10.1145/3489525.3511692
-10. FTRANS: https://arxiv.org/abs/2007.08563
-11. EFA-Trans: https://www.mdpi.com/2079-9292/11/21/3550
-12. https://dl.acm.org/doi/10.1145/3564606
-13. https://dl.acm.org/doi/fullHtml/10.1145/3432816
-14. https://ieeexplore.ieee.org/document/10137117
-15. https://arxiv.org/pdf/2102.01343.pdf#:~:text=Therefore%2C%20because%20of%20the%20high,the%20tested%20multi%2D%20board%20setup.
+4. Esther Roorda, Seyedramin Rasoulinezhad, Philip H. W. Leong, and Steven J. E. Wilton. 2022. FPGA Architecture Exploration for DNN Acceleration. ACM Trans. Reconfigurable Technol. Syst. 15, 3, Article 33 (September 2022), 37 pages. https://doi.org/10.1145/3503465
+5. https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119857891.ch11
+6. M. Zainab, A. R. Usmani, S. Mehrban and M. Hussain, "FPGA Based Implementations of RNN and CNN: A Brief Analysis," 2019 International Conference on Innovative Computing (ICIC), Lahore, Pakistan, 2019, pp. 1-8, doi: 10.1109/ICIC48496.2019.8966676.
+7. Wenqi Jiang, Zhenhao He, Shuai Zhang, Kai Zeng, Liang Feng, Jiansong Zhang, Tongxuan Liu, Yong Li, Jingren Zhou, Ce Zhang, and Gustavo Alonso. 2021. FleetRec: Large-Scale Recommendation Inference on Hybrid GPU-FPGA Clusters. In Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining (KDD '21). Association for Computing Machinery, New York, NY, USA, 3097–3105. https://doi.org/10.1145/3447548.3467139
+8. Chinmay Mahajan, Ashwin Krishnan, Manoj Nambiar, and Rekha Singhal. 2023. Hetero-Rec: Optimal Deployment of Embeddings for High-Speed Recommendations. In Proceedings of the Second International Conference on AI-ML Systems (AIMLSystems '22). Association for Computing Machinery, New York, NY, USA, Article 11, 1–9. https://doi.org/10.1145/3564121.3564134
+9. Ashwin Krishnan, Manoj Nambiar, Nupur Sumeet, and Sana Iqbal. 2022. Performance Model and Profile Guided Design of a High-Performance Session Based Recommendation Engine. In Proceedings of the 2022 ACM/SPEC on International Conference on Performance Engineering (ICPE '22). Association for Computing Machinery, New York, NY, USA, 133–144. https://doi.org/10.1145/3489525.3511692
+10. Bingbing Li, Santosh Pandey, Haowen Fang, Yanjun Lyv, Ji Li, Jieyang Chen, Mimi Xie, Lipeng Wan, Hang Liu, and Caiwen Ding. 2020. FTRANS: energy-efficient acceleration of transformers using FPGA. In Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED '20). Association for Computing Machinery, New York, NY, USA, 175–180. https://doi.org/10.1145/3370748.3406567
+11. Yang X, Su T. EFA-Trans: An Efficient and Flexible Acceleration Architecture for Transformers. Electronics. 2022; 11(21):3550. https://doi.org/10.3390/electronics11213550
+12. Suyeon Hur, Seongmin Na, Dongup Kwon, Joonsung Kim, Andrew Boutros, Eriko Nurvitadhi, and Jangwoo Kim. 2023. A Fast and Flexible FPGA-based Accelerator for Natural Language Processing Neural Networks. ACM Trans. Archit. Code Optim. 20, 1, Article 11 (March 2023), 24 pages. https://doi.org/10.1145/3564606
+13. Saman Biookaghazadeh, Pravin Kumar Ravi, and Ming Zhao. 2021. Toward Multi-FPGA Acceleration of the Neural Networks. J. Emerg. Technol. Comput. Syst. 17, 2, Article 25 (April 2021), 23 pages. https://doi.org/10.1145/3432816
+14. D. R. Agut, R. Tornero and J. Flich, "Towards Efficient Neural Network Model Parallelism on Multi-FPGA Platforms," 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), Antwerp, Belgium, 2023, pp. 1-6, doi: 10.23919/DATE56975.2023.10137117.
+15. Carballo-Hern'andez, W., Pelcat, M., & Berry, F. (2021). Why is FPGA-GPU Heterogeneity the Best Option for Embedded Deep Neural Networks? ArXiv, abs/2102.01343.
 
 ## Contributors
 Ashwin Krishnan         ashwin.krishnan1@tcs.com <br>
