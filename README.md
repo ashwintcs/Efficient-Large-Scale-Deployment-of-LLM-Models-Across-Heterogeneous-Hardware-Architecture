@@ -21,5 +21,5 @@ The influence of transformer models in natural language processing and various o
 15. https://arxiv.org/pdf/2102.01343.pdf#:~:text=Therefore%2C%20because%20of%20the%20high,the%20tested%20multi%2D%20board%20setup.
 
 ## Contributors
-Rekha Singhal           rekha.singhal@tcs.com
+Rekha Singhal           rekha.singhal@tcs.com <br>
 Manoj Nambiar           m.nambiar@tcs.com
